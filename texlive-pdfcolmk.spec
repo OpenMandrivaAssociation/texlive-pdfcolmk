@@ -1,6 +1,6 @@
 Name:		texlive-pdfcolmk
 Version:	52912
-Release:	1
+Release:	2
 Summary:	Improved colour support under pdfTeX (legacy stub)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdfcolmk
