@@ -3,7 +3,7 @@ Version:	52912
 Release:	2
 Summary:	Improved colour support under pdfTeX (legacy stub)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdfcolmk
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pdfcolmk
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdfcolmk.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdfcolmk.doc.r%{version}.tar.xz
